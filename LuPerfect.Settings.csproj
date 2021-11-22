@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Version>1.0.0</Version>
+    <Authors>LuPerfect</Authors>
+    <Company>LuPerfect</Company>
+    <Description>Library with c# asp.net core settings (appsettings).</Description>
+    <RepositoryType>git</RepositoryType>
+    <RepositoryUrl>https://github.com/FierceGrandpa/LuPerfect.Settings</RepositoryUrl>
+    <PackageTags>c#, settings, asp.net core</PackageTags>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+
+</Project>
